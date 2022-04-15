@@ -4,7 +4,7 @@ Project demo and help create Database First and Code first in Entity Framework
 
 ## Add Entity Framework
 
-(via NuGet Package)[https://entityframeworkcore.com/approach-code-first]
+[via NuGet Package](https://entityframeworkcore.com/approach-code-first)
 
 or command Install-Package EntityFramework
 
